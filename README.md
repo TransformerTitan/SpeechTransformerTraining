@@ -275,8 +275,7 @@ We welcome contributions! Please see our contributing guidelines:
 
 ```bash
 # Clone for development
-git clone <repository-url>
-cd memory-efficient-speech-training
+git clone [<repository-url>](https://github.com/TransformerTitan/SpeechTransformerTraining)
 
 # Install in development mode
 pip install -e .
@@ -291,16 +290,7 @@ flake8 memory_efficient_trainer.py
 
 ## 📝 Citation
 
-If you use this implementation in your research, please cite:
-
-```bibtex
-@article{yadla2024memory,
-  title={Memory-Efficient Gradient Accumulation for Speech Transformer Training: A Practical Approach},
-  author={Yadla, P.},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
+TBD
 
 ## 📄 License
 
@@ -313,11 +303,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PyTorch team for automatic mixed precision support
 - Speech processing community for valuable feedback
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: your-email@example.com
 
 ---
 
