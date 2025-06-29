@@ -32,7 +32,7 @@ Training large speech transformers like Wav2Vec2 and Whisper requires substantia
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/TransformerTitan/SpeechTransformerTraining.git
 cd memory-efficient-speech-training
 
 # Install dependencies
